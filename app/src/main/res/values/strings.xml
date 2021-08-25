@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IEJAG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register"><u>Registrese</u></string>
+    <string name="rep_password">Repita la contraseña</string>
+    <string name="role">Rol</string>
+    <string name="rector">Rector</string>
+    <string name="coordinador">Coordinador</string>
+    <string name="professor">Profesor</string>
+    <string name="registrar">Registrar</string>
+</resources>

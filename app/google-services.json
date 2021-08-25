@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269524767703",
+    "project_id": "iejag-48832",
+    "storage_bucket": "iejag-48832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269524767703:android:7d225706d7e4a477e73192",
+        "android_client_info": {
+          "package_name": "com.cubidevs.iejag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269524767703-9kd8nuoenk5srf61h15iab3vvjjjc87e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KloTAQfLmodeOTI1jhql4VTnC4_NrSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269524767703-9kd8nuoenk5srf61h15iab3vvjjjc87e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
